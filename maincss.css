@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script);
+
+* {
+	margin:0;
+	padding:0;
+	background-color: #091840;
+	font-family: 'Petit Formal Script', sans-serif;
+	color: white;
+}
+
+h1 {
+	width:100%;
+	margin-top:50px;
+	text-align: center;
+	font-size: 60px;
+}
+
+img {
+	width: 20%;
+	margin: 50px 40% 0 40%;
+	box-sizing:border-box; 
+}
+
+#textlink {
+	width: 100%;
+	text-align: center;
+}
+
+#textlink p {
+	margin-top: 50px;
+	padding: 0 5px 0 5px;
+	text-align: right;
+	display: inline-block;
+	box-sizing:border-box;
+	font-size: 25px;
+}
+
+#textlink a {
+	margin-top: 50px;
+	padding: 0 5px 0 5px;
+	text-align: left;
+	display: inline-block;
+	box-sizing:border-box;
+	font-size: 25px;
+}
