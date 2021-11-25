@@ -49,10 +49,10 @@ img {
 		width: 80%;
 		margin: 50px 10% 0 10%;
 	}
-	textlink p {
+	#textlink p {
 		font-size: 15px;
 	}
-	textlink a {
+	#textlink a {
 		font-size: 15px;
 	}
 }
